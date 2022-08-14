@@ -1,0 +1,16 @@
+.title {
+    font-size: 1.8em;
+}
+
+.local-time {
+    margin: 1em;
+
+    .date, .time {
+        font-size: 1em;
+        margin: .2em;
+    }
+
+    svg {
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,19 @@
+.temperature {
+    margin-bottom: 2em;
+
+    strong {
+        font-size: 1.2em;
+        text-align: center;
+    }
+    
+    .temp {
+        font-size: 5em;
+        margin-top: .2em;
+    
+        .celsius {
+            font-size: .35em;
+            position: relative;
+            top: -1.3em;
+        }
+    }
+}

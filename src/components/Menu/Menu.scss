@@ -1,0 +1,12 @@
+nav {
+    justify-content: space-between !important;
+
+    img {
+        margin: 0 2em;
+        cursor: pointer;
+        
+        &[alt='setting'], &[alt='info'] {
+            z-index: 100;
+        }
+    }
+}
